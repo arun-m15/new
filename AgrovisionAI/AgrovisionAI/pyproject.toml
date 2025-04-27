@@ -1,0 +1,19 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "bcrypt>=4.3.0",
+    "fastapi>=0.115.12",
+    "numpy>=2.2.5",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.2.3",
+    "passlib>=1.7.4",
+    "pillow>=11.2.1",
+    "python-jose>=3.4.0",
+    "python-multipart>=0.0.20",
+    "requests>=2.32.3",
+    "uvicorn>=0.34.2",
+]
